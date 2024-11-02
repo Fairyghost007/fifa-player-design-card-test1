@@ -1,0 +1,51 @@
+.fifa-card {
+    background-image: url(https://www.fifarosters.com/assets/cards/fifa25/cards_bg_e_1_151_0.png);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    width: 350px;  /* Adjust width */
+    height: 500px; /* Adjust height */
+    padding: 20px; 
+}
+
+.fifa-card h2 {
+    color: #ffd700;
+}
+
+.fifa-card img {
+    border-radius: 8px;
+}
+
+.fifa-card .text-yellow-300 {
+    color: #ffd700; /* Gold color for stats */
+}
+
+.xxx {
+    border-right: 2px solid #ffd700;
+}
+
+  
+ 
+
+ 
+
+@media (max-width: 768px) {
+    .fifa-card {
+        width: 80%;    /* Adjusted width for tablets */
+        height: auto;  /* Set height to auto for flexibility */
+        padding: 15px; /* Reduced padding for tablets */
+    }
+}
+
+@media (max-width: 480px) {
+    .fifa-card {
+        width: 95%;    /* Wider width for mobile devices */
+        height: auto;  /* Set height to auto for flexibility */
+        padding: 0px; /* Further reduced padding for mobile devices */
+    }
+}
+  
