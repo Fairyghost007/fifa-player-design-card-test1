@@ -11,7 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - name, 
 - team, 
 - nationality, 
-- jerseyNumber  
+- jerseyNumber
+- age
 - Image URL
 - Stats
 
