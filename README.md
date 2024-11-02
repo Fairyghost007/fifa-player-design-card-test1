@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### `Demo`
+<img width="1439" alt="Screen Shot 2024-11-02 at 10 40 59" src="https://github.com/user-attachments/assets/fe3560d0-2c29-4d6c-b74f-0ecfeb982fa2">
+
+
+###  `The attributes for each player`
+- name, 
+- team, 
+- nationality, 
+- jerseyNumber  
+- Image URL
+- Stats
+
+
 ## Available Scripts
 
 In the project directory, you can run:
